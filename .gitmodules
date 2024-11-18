@@ -1,3 +1,6 @@
 [submodule "AntiForgery"]
 	path = AntiForgery
 	url = https://github.com/junghye01/AntiForgery.git
+[submodule "SimSwap"]
+	path = SimSwap
+	url = https://github.com/junghye01/SimSwap.git
