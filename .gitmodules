@@ -3,4 +3,4 @@
 	url = https://github.com/junghye01/AntiForgery.git
 [submodule "SimSwap"]
 	path = SimSwap
-	url = git@github.com:junghye01/SimSwap.git
+	url = https://github.com/junghye01/SimSwap.git
